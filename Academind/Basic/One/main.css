@@ -1,15 +1,16 @@
-section{
-    background-color: red;
-}
-#product-overiview {
-    background: royalblue;
-}
-# plans{
-    background: chocolate;
-}
-h1 {
-    color: rgb(255, 255, 255);
-    font-family: 'Galada', cursive;
-    font-size: 65px;
+#product-overview {
+    background: rebeccapurple;
+    }
+h1{
+    color: cornsilk;    
+    font-family: 'Grenze Gotisch', cursive;
 
+}
+//#plans {
+    font-size: 75px;
+    color: seashell;
+    background: rebeccapurple;//
+}
+.section-title{
+    color: brown;
 }
